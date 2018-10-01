@@ -1,2 +1,2 @@
-# tourplus-style-guide
+# Tourplus Style Guide
 Style Guide for Tourplus
